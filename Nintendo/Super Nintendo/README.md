@@ -19,3 +19,13 @@
 | C64      | 33/25A/37G  | 33µF         | 25V      | SMT    |              |
 | C73      | 47/16A/37C  | 47µF         | 16V      | SMT    |              |
 | C67      | N/A         | 1000µF       | 25V      | Radial | Não populado |
+
+# Onde comprar (todos Radiais)
+| Capacitancia | Voltagem | Link | Voltagem Comprada |
+|--------------|----------|------|-------------------|
+| 10µF         | 16V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-10uf-16v-a-450v.html) | 16v |
+| 33µF         | 25V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-33uf-16v-a-450v.html) | 25v |
+| 220µF        | 6,3V     | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-220uf-16v-a-450v.html) | 16v |
+| 2.2µF        | 50V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-2-2uf-50v-a-400v.html) | 50v |
+| 1000µF       | 25V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) | 25v |
+| 47µF         | 16V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) | 16v |
