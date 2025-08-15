@@ -28,3 +28,12 @@
 
 ### Observações
 Comprar um kit compatível com as revisões "NUS-CPU-05~07" funciona. Porém virá um capacitor de 10uF a mais.
+
+### Onde comprar (todos radiais)
+| Capacitancia | Voltagem | Link |
+|--------------|----------|------|
+| 68µF         | 10V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-68uf-25v-a-400v.html) |
+| 10µF         | 16V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-10uf-16v-a-450v.html) |
+| 33µF         | 25V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-33uf-16v-a-450v.html) |
+| 220µF        | 10V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-220uf-16v-a-450v.html) | 
+Ao comprar, pegar de mesma voltagem ou maior. A Capacitancia sempre deve ser igual
