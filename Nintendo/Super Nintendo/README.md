@@ -20,7 +20,7 @@
 | C73      | 47/16A/37C  | 47µF         | 16V      | SMT    |              |
 | C67      | N/A         | 1000µF       | 25V      | Radial | Não populado |
 
-# Onde comprar (todos Radiais)
+# Onde comprar (todos radiais)
 | Capacitancia | Voltagem | Link | Voltagem Comprada |
 |--------------|----------|------|-------------------|
 | 10µF         | 16V      | [link](https://www.multcomercial.com.br/capacitor-eletrolitico-de-10uf-16v-a-450v.html) | 16v |
