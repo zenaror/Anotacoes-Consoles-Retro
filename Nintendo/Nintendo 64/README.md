@@ -25,3 +25,6 @@
 | C24      | 33/EHA/8NO  | 33µF         | 25V      | SMT    |              |
 | C28      | 33/EHA/8NO  | 33µF         | 25V      | SMT    |              |
 | C140     | 68/AHA/8PO  | 68µF         | 10V      | SMT    |              |
+
+### Observações
+Comprar um kit compatível com as revisões "NUS-CPU-05~07" funciona. Porém virá um capacitor de 10uF a mais.
