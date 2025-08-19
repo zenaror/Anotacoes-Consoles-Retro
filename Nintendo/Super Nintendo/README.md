@@ -7,6 +7,7 @@
 ![Placa Baixo](img/IMG_2610.JPG)
 
 ### Esquema do circuito
+[Arquivo PDF](img/Esquema_PCB)
 ![Esquema](img/Esquema_PCB.png)
 
 ### Mapa dos capacitores (com polaridade)
