@@ -7,7 +7,7 @@
 ![Placa Baixo](img/IMG_2610.JPG)
 
 ### Esquema do circuito
-[Arquivo PDF](img/Esquema_PCB)
+[Arquivo PDF](img/Esquema_PCB.pdf)
 ![Esquema](img/Esquema_PCB.png)
 
 ### Mapa dos capacitores (com polaridade)
@@ -43,3 +43,6 @@ Ao comprar, pegar de mesma voltagem ou maior. A Capacitancia sempre deve ser igu
 | Marcação | Componente | Link        |
 |----------|------------|-------------|
 | U10      | LM324      | [Mercado Livre](https://www.mercadolivre.com.br/10-pecas-do-circuito-integrado-smd-amplificador-lm324/p/MLB39850011) |
+
+### Notas
+* Durante a remoção do capacitor C61, acidentalmente removi o pad positivo do capacitor da placa do console. Após todo o recap, o console ficou sem som. Após algumas análises, consegui reparar, pois esse pad em especial é conectado a duas vias. Segue uma [**IMAGEM DO RESULTADO**](img/20250821-081524.jpg).
