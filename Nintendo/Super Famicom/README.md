@@ -15,6 +15,7 @@
 
 ### Lista de capacitores
 | Marcação | Inscrição   | Capacitancia | Voltagem | Tipo   | Notas        |
+|----------|-------------|--------------|----------|--------|--------------|
 | C9       | 2.2/50A/450 | 2.2µf        | 50v      | SMT    |              |
 | C12      | 10/16A/4NS  | 10µf         | 16v      | SMT    |              |
 | C13      | 10/16A/4NS  | 10µf         | 16v      | SMT    |              |
