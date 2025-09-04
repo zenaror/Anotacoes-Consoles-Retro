@@ -2,6 +2,7 @@
 
 ## Esquema do circuito
 [Arquivo PDF](img/Esquema_PCB.pdf)
+[Arquivo PDF Console PAL](img/Esquema_PCB-PAL.pdf) - Para referência do S-MIX
 ![Esquema](img/Esquema_PCB.png)
 
 ## Modelo SNS-CPU-RGB-01
@@ -37,3 +38,27 @@
 | 1000µF       | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) |
 | 47µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) |
 
+### Notas
+* O console usa o chip S-MIX, e não um LM324. Com isso ele só é trocável por outro S-MIX, sendo necessário placas sucatas doadoras. É necessário adaptar o entendimento um pouco. 
+* Um ponto importante é que ele funciona com 12v, é bem comum dar problema de chip queimado devido a sobrecarga de energia.
+
+```
+S-MIX PINOUT
+              .---\/---.
+      VCC -- | 01  14 | <- PREL
+     PRER -> | 02  13 | <- MUTE
+    IN_AR -> | 03  12 | <- IN_AL
+    IN_ER -> | 04  11 | <- IN_EL
+    IN_CR -> | 05  10 | <- IN_CL
+      GND -- | 06  09 | -- GND
+Right Out <- | 07  08 | -> Left Out
+             `--------´
+```
+
+PRER: Right Preset<br/>
+PREL: Left Preset<br/>
+IN_AL/R: Audio da APU<br/>
+IN_EL/R: Audio da Expansion Port<br/>
+IN_CL/R: Audio do Cartucho<br/>
+
+---
