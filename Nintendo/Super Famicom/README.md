@@ -1,8 +1,11 @@
 # Super Famicom
 
+## Manual de Serviço
+[Arquivo PDF](img/Manual_Tecnico_Super_Nintendo.pdf)
+
 ## Esquema do circuito
-[Arquivo PDF](img/Esquema_PCB.pdf)
-[Arquivo PDF Console PAL](img/Esquema_PCB-PAL.pdf) - Para referência do S-MIX
+[Arquivo PDF](img/Esquema_PCB.pdf)<br/>
+[Arquivo PDF Console PAL](img/Esquema_PCB-PAL.pdf) - Para referência do S-MIX<br/>
 ![Esquema](img/Esquema_PCB.png)
 
 ## Modelo SNS-CPU-RGB-01
@@ -29,18 +32,19 @@
 | C58      | 1000µF/25v  | 1000µf       | 25v      | Radial |              |
 
 #### Onde comprar (todos radiais)
-| Capacitancia | Voltagem | Link |
-|--------------|----------|------|
-| 10µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-10uf-16v-a-450v.html) |
-| 33µF         | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-33uf-16v-a-450v.html) |
-| 220µF        | 6,3V     | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-220uf-16v-a-450v.html) | 
-| 2.2µF        | 50V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-2-2uf-50v-a-400v.html) |
-| 1000µF       | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) |
-| 47µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) |
+| Quantidade | Capacitancia | Voltagem | Link |
+|------------|--------------|----------|------|
+| 2          | 10µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-10uf-16v-a-450v.html) |
+| 3          | 33µF         | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-33uf-16v-a-450v.html) |
+| 2          | 220µF        | 6,3V     | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-220uf-16v-a-450v.html) | 
+| 1          | 2.2µF        | 50V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-2-2uf-50v-a-400v.html) |
+| 1          | 47µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) |
+| 1          | 1000µF       | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) |
 
 ### Notas
 * O console usa o chip S-MIX, e não um LM324. Com isso ele só é trocável por outro S-MIX, sendo necessário placas sucatas doadoras. É necessário adaptar o entendimento um pouco. 
 * Um ponto importante é que ele funciona com 12v, é bem comum dar problema de chip queimado devido a sobrecarga de energia.
+* Existe uma possível placa substituta para o S-MIX [disponível aqui no github](https://github.com/ManCloud/S-MIX-replacement)
 
 ```
 S-MIX PINOUT
