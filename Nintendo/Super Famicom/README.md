@@ -41,6 +41,11 @@
 | 1          | 47µF         | 16V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) |
 | 1          | 1000µF       | 25V      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) |
 
+#### Lista de demais componentes para reposição
+| Marcação | Componente | Link        |
+|----------|------------|-------------|
+| U7       | S-ENC      | [Informações aqui](Info_Encoder_Video.md) |
+
 ### Notas
 * O console usa o chip S-MIX, e não um LM324. Com isso ele só é trocável por outro S-MIX, sendo necessário placas sucatas doadoras. É necessário adaptar o entendimento um pouco. 
 * Um ponto importante é que ele funciona com 12v, é bem comum dar problema de chip queimado devido a sobrecarga de energia.
