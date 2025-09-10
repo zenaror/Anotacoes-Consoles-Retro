@@ -49,7 +49,7 @@
 ### Notas
 * O console usa o chip S-MIX, e não um LM324. Com isso ele só é trocável por outro S-MIX, sendo necessário placas sucatas doadoras. É necessário adaptar o entendimento um pouco. 
 * Um ponto importante é que ele funciona com 12v, é bem comum dar problema de chip queimado devido a sobrecarga de energia.
-* Existe uma possível placa substituta para o S-MIX [disponível aqui no github](https://github.com/ManCloud/S-MIX-replacement)
+* Existe uma possível placa substituta para o S-MIX [disponível aqui no github](https://github.com/ManCloud/S-MIX-replacement) / [Vídeo no Youtube sobre](https://www.youtube.com/watch?v=9pBcMbz4New)
 
 ```
 S-MIX PINOUT
