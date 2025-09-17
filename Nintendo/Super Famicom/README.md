@@ -44,7 +44,7 @@
 #### Lista de demais componentes para reposição
 | Marcação | Componente | Link        |
 |----------|------------|-------------|
-| U7       | S-ENC      | [Informações aqui](Info_Encoder_Video.md) |
+| U7       | S-ENC      | [Informações aqui](../_Utilitarios/Encoder%20RGB%20SNES/Info_Encoder_Video.md) |
 
 ### Notas
 * O console usa o chip S-MIX, e não um LM324. Com isso ele só é trocável por outro S-MIX, sendo necessário placas sucatas doadoras. É necessário adaptar o entendimento um pouco. 
