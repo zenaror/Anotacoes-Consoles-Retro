@@ -47,7 +47,7 @@
 
 Ao comprar, pegar de mesma voltagem ou maior. A capacitancia sempre deve ser igual.
 
-### Lista de CIs (Placa Principalk)
+### Lista de CIs (Placa Principal)
 | Marcação | Inscrição                                                |
 |----------|----------------------------------------------------------|
 | IC1      | SEGA/315/6123/FQ8007/9905 WACE                           |
