@@ -47,16 +47,25 @@
 
 Ao comprar, pegar de mesma voltagem ou maior. A capacitancia sempre deve ser igual.
 
-### Lista de CIs
+### Lista de CIs (Placa Principalk)
 | Marcação | Inscrição                                                |
 |----------|----------------------------------------------------------|
 | IC1      | SEGA/315/6123/FQ8007/9905 WACE                           |
 | IC2      | NEC JAPAN/D4502161G5/A F2-7JF/9925LY039                  |
 | IC3      | ST/324/92L124                                            |
 | IC4      | SONY/CXA1645M/216A64V                                    |
+| IC5      | (Substituido pelo IC9)                                   |
 | IC6      | ALTERA/EPM3032ALC44-10/T BAD490219A/VAD4938621/303TA2K0C |
 | IC7      | tmtech/0131/83MHz/MA226NN/T2241628-3SJ                   |
 | IC8      | 74HC00D/D8914pl/Hnn0101H                                 |
 | IC9      | SEC MD30X1                                               |
 
-*IC6 tinha uma etiqueta em cima escrito DRAMC 1.0
+*IC6 tem uma etiqueta em cima escrito DRAMC 1.0
+
+### Lista de CIs (Fonte)
+| Marcação | Inscrição           |
+|----------|---------------------|
+| IC1      | J132/TNY254P/13565A |
+| IC2      | L0220/817B/Y        |
+
+*IC6 tem uma etiqueta em cima escrito DRAMC 1.0
