@@ -1,6 +1,6 @@
 # Anotações Consoles Retrô / Retro Console Notes
 
-🌎 Disponível em/Available: [Português](README.md) | [English](README.md)
+🌎 Disponível em/Available: [Português](#-em-português) | [English](#-in-english)
 
 ## 🇧🇷 Em português
 Este repositório é um espaço para registrar e compartilhar minhas anotações relacionadas a consoles retrô que tenho na coleção, desde um Master System até um PS2 slim.
