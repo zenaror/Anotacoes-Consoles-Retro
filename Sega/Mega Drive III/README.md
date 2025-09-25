@@ -67,5 +67,3 @@ Ao comprar, pegar de mesma voltagem ou maior. A capacitancia sempre deve ser igu
 |----------|---------------------|
 | IC1      | J132/TNY254P/13565A |
 | IC2      | L0220/817B/Y        |
-
-*IC6 tem uma etiqueta em cima escrito DRAMC 1.0
