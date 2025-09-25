@@ -3,7 +3,7 @@
 ## Revisão "REV 1 - TEC TOY - MASTER III VERSAO 2"
 ### Imagens
 ![Etiqueta](img/IMG_3018.JPG)
-![Placa Cima1](img/20250925_131509.JPG)
+![Placa Cima1](img/20250925_131508.JPG)
 ![Placa Cima2](img/IMG_3017.JPG)
 ![Placa Baixo](img/IMG_3016.JPG)
 
