@@ -29,7 +29,7 @@
 | 2          | 1µF          | 50v      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1uf-50v-a-450v.html) |
 | 1          | 0.47µF       | 50v      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-0-47uf-50v-a-100v.html) | 
 | 1          | 47µF         | 16v      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-47uf-16v-a-450v.html) |
-| 1          | 1000µF       | 6.3V     | [Mult Comercial](https://www.multcomercial.com.br/capacitor-elerolitico-de-1000uf-6-3v-a-250v.html) |
+| 1          | 1000µF       | 6.3V     | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-de-1000uf-6-3v-a-250v.html) |
 | 1          | 0.33µF       | 50v      | [Mult Comercial](https://www.multcomercial.com.br/capacitor-eletrolitico-0-33uf-63v.html) |
 
 
