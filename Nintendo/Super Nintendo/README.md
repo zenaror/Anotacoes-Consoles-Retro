@@ -51,6 +51,6 @@ Ao comprar, pegar de mesma voltagem ou maior. A Capacitancia sempre deve ser igu
 * Durante a remoção do capacitor C61, acidentalmente removi o pad positivo do capacitor da placa do console. Após todo o recap, o console ficou sem som. Após algumas análises, consegui reparar, pois esse pad em especial é conectado a duas vias. Segue uma [**IMAGEM DO RESULTADO**](img/20250821-081524.jpg).
 
 ## Informações sobre reparos realizados
-* [Recap do console](https://zenaror.github.io/2025/08/22/manutencao-preventiva-no-snes-e-como-isso-quase-deu-errado)
-* [Reparo do CIC](https://zenaror.github.io/2025/08/26/a-pirataria-no-super-nintendo-coisas-para-se-descobrir-35-anos-depois-do-seu-lancamento)
-* [Adição de chave Liga/Desliga no CIC](https://zenaror.github.io/2025/09/08/a-saga-do-super-nintendo-finalizando-os-reparos)
+* [Recap do console](https://zenaror.nekoweb.org/blog/posts/2025/08/22/manutencao-preventiva-no-snes-e-como-isso-quase-deu-errado)
+* [Reparo do CIC](https://zenaror.nekoweb.org/blog/posts/2025/08/26/a-pirataria-no-super-nintendo-coisas-para-se-descobrir-35-anos-depois-do-seu-lancamento)
+* [Adição de chave Liga/Desliga no CIC](https://zenaror.nekoweb.org/blog/posts/2025/09/08/a-saga-do-super-nintendo-finalizando-os-reparos)
